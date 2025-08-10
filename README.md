@@ -14,7 +14,6 @@ All notes are stored in a file called `notes.txt` so they’re saved even after 
 The app uses:
 - FileWriter→ to write notes to the file
 - BufferedReader → to read notes from the file
-- 
 
 ## How to run it
 1. Make sure you have Java installed  
