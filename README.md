@@ -22,6 +22,12 @@ The app uses:
    java -version
    javac -version
 
+2. Compile the file:
+ javac Notesapp.java
+ 
+3. Run the app:
+ java Notesapp
+
 ##  Example
 
 --- Notes App ---
